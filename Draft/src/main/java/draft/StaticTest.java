@@ -1,4 +1,4 @@
-package codewars;
+package draft;
 
 public class StaticTest {
 

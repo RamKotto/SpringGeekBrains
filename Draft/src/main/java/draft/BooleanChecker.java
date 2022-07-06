@@ -1,4 +1,4 @@
-package bool;
+package draft;
 
 public class BooleanChecker {
 
